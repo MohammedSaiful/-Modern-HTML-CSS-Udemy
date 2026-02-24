@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  background: coral;
+  /* vh work up to down work for height*/
+  height: 100vh;
+
+  /* vw work left to right work for width*/
+  /* width: 50vw; */
+}
+
+.container h1 {
+  font-size: 7vw;
+}
