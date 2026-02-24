@@ -1,0 +1,36 @@
+.body {
+  font-family: Arial, sans-serif;
+}
+
+
+.flex-container {
+  background: lightblue;
+  width: 100%;
+  display: flex;
+  /* justify-content: space-evenly; */
+
+  /* justify-content: space-between; */
+  /* justify-content: space-around; */
+  /* justify-content: left; */
+  /* justify-content: center; */
+
+  align-items: center;
+  /* align-items: stretch; */
+  /* align-items: baseline; */
+
+}
+
+
+.flex-item {
+  background: coral;
+  border: 1px solid black;
+  padding: 20px;
+  width: 200px;
+  /* margin: 5px; */
+}
+
+.item-1 {
+  /* flex-shrink: 0; */
+  flex-grow: 1;
+  /* flex-basis: 200px; */
+}
