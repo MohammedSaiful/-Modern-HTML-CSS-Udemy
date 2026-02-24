@@ -9,6 +9,8 @@
 |--------------|-----------|-------------|
 | section-2    | [Live Demo](https://section-1-pricing-grid-html-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/01-essential-html/13-pricing-grid-html-challenge) |
 | section-3    | [Live Demo](https://section-2-html-form-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/02-forms-and-inputs/07-html-form-challenge) |
-| section-4    | [Live Demo](https://section-4-css-basics-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/04-css-basics/10-css-basics-challenge) |
-| section-5.1    | [Live Demo](https://section-5-freelance-form-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/09-freelance-form-challenge) |
-| section-5.2    | [Live Demo](https://section-5-shoe-cards-project.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/10-shoe-cards-project) |
+| section-5    | [Live Demo](https://section-4-css-basics-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/04-css-basics/10-css-basics-challenge) |
+| section-6.1    | [Live Demo](https://section-5-freelance-form-challenge.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/09-freelance-form-challenge) |
+| section-6.2    | [Live Demo](https://section-5-shoe-cards-project.netlify.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/10-shoe-cards-project) |
+| section-7.1 & 8.1    | [Live Demo](https://modern-html-css-udemy-n24y.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/07-responsive-media-queries/06-responsive-pricing-grid) |
+| section-7.2 & 8.2    | [Live Demo](https://section-8-responsive-flexbox-layout.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/07-responsive-media-queries/07-responsive-flexbox-layout) |
