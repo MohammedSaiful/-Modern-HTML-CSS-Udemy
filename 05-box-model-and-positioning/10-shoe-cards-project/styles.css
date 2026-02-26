@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
+.body {
   font-family: 'Roboto', sans-serif;
   background-color: #d9e2e8;
 }
@@ -77,18 +77,49 @@ body {
 
 /* background image */
 .card-sporty {
-  background: #fff url(./images/sporty.png) no-repeat right;
-  background-size: 200px;
+  background: #fff url(./images/sporty.png) no-repeat center right/200px;
+  /* background-size: 200px; */
 
 }
 
 .card-casual {
-  background: #fff url(./images/casual.png) no-repeat right;
-  background-size: 200px;
+  background: #fff url(./images/casual.png) no-repeat center right/200px;
+  /* background-size: 200px; */
 
 }
 
 .card-formal {
-  background: #fff url(./images/formal.png) no-repeat right;
-  background-size: 200px;
+  background: #fff url(./images/formal.png) no-repeat center right/200px;
+  /* background-size: 200px; */
+}
+
+/* responsive */
+@media (max-width: 768px) {
+
+  .container {
+    margin: 40px auto;
+  }
+
+  .card {
+    text-align: center;
+    background-position: top center;
+    background-size: 150px;
+
+    /* space for image on top */
+    padding-top: 160px;
+
+  }
+
+  .card h2 {
+    font-size: 22px;
+  }
+
+  .card p {
+    font-size: 15px;
+  }
+
+  .card a {
+    font-size: 15px;
+    padding: 8px 16px;
+  }
 }
