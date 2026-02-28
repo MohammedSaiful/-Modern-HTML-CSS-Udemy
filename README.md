@@ -17,3 +17,4 @@
 | section-9    | [Live Demo](https://bono-landing-page-section-9.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/07.5-Bono-Landing-Page) |
 | section-10.1    | [Live Demo](https://section-10-sticky-navbar.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/08-various-css-features/04-sticky-navbar) |
 | section-10.2    | [Live Demo](https://section-102-nesting.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/08-various-css-features/06-nesting) |
+| section-11    | [Live Demo](https://section-11-lumina-creative.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/011-lumina-creative) |
