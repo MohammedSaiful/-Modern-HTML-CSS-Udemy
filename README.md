@@ -41,41 +41,41 @@ This repository contains some of the projects and practice work I completed whil
 ##  Project images
 
 ### 1. | Bono Web   | [Live Demo](https://bono-landing-page-section-9.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/07.5-Bono-Landing-Page) |
-!(Screenshorts/bono-desk.jpg)
-!(Screenshorts/bono-mobile.jpg)
+![](Screenshorts/bono-desk.jpg)
+![](Screenshorts/bono-mobile.jpg)
 
 ### 2. | Lumina Web | [Live Demo](https://section-11-lumina-creative.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/011-lumina-creative) |
-!(Screenshorts/lumina-home-desk.jpg)
-!(Screenshorts/lumina-about-desk.jpg)
-!(Screenshorts/lumina-contact-desk.jpg)
-!(Screenshorts/lumina-home-mobile.jpg)
-!(Screenshorts/lumina-about-1-mobile.jpg)
-!(Screenshorts/lumina-about-2-mobile.jpg)
-!(Screenshorts/lumina-contact-mobile.jpg)
+![](Screenshorts/lumina-home-desk.jpg)
+![](Screenshorts/lumina-about-desk.jpg)
+![](Screenshorts/lumina-contact-desk.jpg)
+![](Screenshorts/lumina-home-mobile.jpg)
+![](Screenshorts/lumina-about-1-mobile.jpg)
+![](Screenshorts/lumina-about-2-mobile.jpg)
+![](Screenshorts/lumina-contact-mobile.jpg)
 
 ### 3.| Navbar    | [Live Demo](https://section-10-sticky-navbar.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/08-various-css-features/04-sticky-navbar) |
-!(Screenshorts/project-10-desk.jpg)
-!(Screenshorts/project-10-mobile.jpg)
+![](Screenshorts/project-10-desk.jpg)
+![](Screenshorts/project-10-mobile.jpg)
 
 ### 4. | Read   | [Live Demo](https://section-102-nesting.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/08-various-css-features/06-nesting) |
-!(Screenshorts/project-10-2-desk.jpg)
-!(Screenshorts/project-10-2-mobile.jpg)
+![](Screenshorts/project-10-2-desk.jpg)
+![](Screenshorts/project-10-2-mobile.jpg)
 
 ### 5. | Shoe card    | [Live Demo](https://shoe-cards-project-section-6.vercel.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/)
-!(Screenshorts/shoe-card-desk.jpg)
-!(Screenshorts/shoe-card-mobile.jpg)
+![](Screenshorts/shoe-card-desk.jpg)
+![](Screenshorts/shoe-card-mobile.jpg)
 
 ### 6. | Tutor    | [Live Demo](https://shoe-cards-project-section-6.vercel.app/) | [Code](https://github.com/MohammedSaiful/-Modern-HTML-CSS-Udemy/tree/main/05-box-model-and-positioning/)
-!(Screenshorts/tutor-1.jpg)
-!(Screenshorts/tutor-2.jpg)
-!(Screenshorts/tutor-3.jpg)
-!(Screenshorts/tutor-4.jpg)
-!(Screenshorts/tutor-5.jpg)
-!(Screenshorts/tutor-6.jpg)
+![](Screenshorts/tutor-1.jpg)
+![](Screenshorts/tutor-2.jpg)
+![](Screenshorts/tutor-3.jpg)
+![](Screenshorts/tutor-4.jpg)
+![](Screenshorts/tutor-5.jpg)
+![](Screenshorts/tutor-6.jpg)
 
 ### 7. | Leno Project   | [Live Demo](https://sec-19-leno-project.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/19-leno-website) |
-!(Screenshorts/leno-1.jpg)
-!(Screenshorts/leno-2.jpg)
-!(Screenshorts/leno-3.jpg)
-!(Screenshorts/leno-4.jpg)
-!(Screenshorts/leno-5.jpg)
+![](Screenshorts/leno-1.jpg)
+![](Screenshorts/leno-2.jpg)
+![](Screenshorts/leno-3.jpg)
+![](Screenshorts/leno-4.jpg)
+![](Screenshorts/leno-5.jpg)
